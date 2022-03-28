@@ -33,6 +33,8 @@ export function Home() {
 
   return (
     <View style={styles.container}>
+      
+
       <Text style={styles.title}>Welcome, Fernando</Text>
 
       <Text style={styles.greetings}>
